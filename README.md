@@ -12,6 +12,22 @@ A Python-based API project for Free Fire like-related functionality.
 * 🌐 Deployment support with WSGI
 
 ## 📁 Project Structure
+## 🚀 Deploy on Vercel
+
+Deploy this project using **Vercel**.
+
+🔗 **Vercel Website:** https://vercel.com/
+
+### Deployment Steps
+
+1. Open [Vercel](https://vercel.com/).
+2. Sign in with your GitHub account.
+3. Import the `Ram-free-fire-like-api` repository.
+4. Configure the project settings and dependencies.
+5. Click **Deploy** and wait for the deployment to finish.
+
+**Note:** Make sure `vercel.json`, the Python entry point, and required dependencies are configured correctly before deployment.
+
 
 ```text
 Ram-free-fire-like-api/
