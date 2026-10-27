@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="RAM FREE FIRE LIKE API">
+<img src="banner.gif" width="100%" alt="https://kommodo.ai/i/FP7mr2UeX7u3h3Ckqm8p">
 
 # RAM FREE FIRE LIKE API
 
