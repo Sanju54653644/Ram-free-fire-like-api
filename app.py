@@ -275,7 +275,7 @@ def handle_requests():
     key = request.args.get("key")
     client_ip = request.remote_addr
 
-    if key != "ABHI":
+    if key != "RAM":
         return jsonify({"error": "Invalid or missing API key 🔑"}), 403
 
     if not uid or not server_name:
@@ -360,8 +360,8 @@ def handle_requests():
             "UID": player_id,
             "status": status,
             "remains": f"({remains}/{KEY_LIMIT})",
-            "credit": "@Abhi_gmr",
-            "channel": "@Abhi_api"
+            "credit": "@Ramboss672",
+            "channel": "@Ramboss6"
         })
     except Exception as e:
         return jsonify({"error": str(e), "status": 0}), 500
@@ -376,8 +376,8 @@ def reset_cache():
     liked_cache.clear()
     return jsonify({
         "message": "Cache cleared",
-        "credit": "@Abhi_gmr",
-        "channel": "@Abhi_api"
+        "credit": "@Ramboss672",
+        "channel": "@Ramboss6"
     })
 
 if __name__ == '__main__':
@@ -388,6 +388,6 @@ if __name__ == '__main__':
     print("   - account_bd.txt (BD/RU server)")
     print("🧠 Smart feature: Tracks which accounts already liked")
     print("⚡ Only fresh accounts will send likes")
-    print("💎 Credit: @Abhi_gmr")
-    print("📢 Channel: @Abhi_api")
-    app.run(host='0.0.0.0', port=5003, debug=True, use_reloader=False)
+    print("💎 Credit: @Ramboss672")
+    print("📢 Channel: @Ramboss6")
+    app.run(host='0.0.0.0', port=5050, debug=True, use_reloader=False)
