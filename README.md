@@ -1,4 +1,13 @@
-# Ram-free-fire-like-api
+<div align="center">
+
+<img src="banner.gif" width="100%" alt="RAM FREE FIRE LIKE API">
+
+# RAM FREE FIRE LIKE API
+
+**Free Fire Like API — Developer Project**
+
+</div>
+
 # 🔥 Ram Free Fire Like API
 
 A Python-based API project for Free Fire like-related functionality.
