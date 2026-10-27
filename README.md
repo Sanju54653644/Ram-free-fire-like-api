@@ -19,37 +19,80 @@ A Python-based API project for Free Fire like-related functionality.
 * 🌐 Deployment support with WSGI
 
 ## 📁 Project Structure
-## 🚀 Deploy on Vercel
+# 🔥 RAM Free Fire Like API
 
-Deploy this project using **Vercel**.
+A Python-based API project.
 
-🔗 **Vercel Website:** https://vercel.com/
+## ✨ Features
 
-### Deployment Steps
+* Python-based API
+* Lightweight project structure
+* Vercel deployment configuration
+* Easy setup and installation
 
-1. Open [Vercel](https://vercel.com/).
-2. Sign in with your GitHub account.
-3. Import the `Ram-free-fire-like-api` repository.
-4. Configure the project settings and dependencies.
-5. Click **Deploy** and wait for the deployment to finish.
-
-**Note:** Make sure `vercel.json`, the Python entry point, and required dependencies are configured correctly before deployment.
-
+## 📁 Project Structure
 
 ```text
 Ram-free-fire-like-api/
 ├── README.md
 ├── app.py
 ├── index.py
-├── account_bd.txt
 ├── account_ind.txt
-├── like_count_pb2.py
-├── like_pb2.py
-├── uid_generator_pb2.py
+├── account_bd.txt
 ├── requirements.txt
 ├── vercel.json
 └── wsgi.py
 ```
+
+## 🚀 Installation & Deployment
+
+### Step 1: Add Your Account
+
+First, configure your authorized account details in `account_ind.txt`.
+
+* Open `account_ind.txt`.
+* Add the account details in the format expected by the application.
+* Save the file.
+
+**Security:** Never commit passwords, access tokens, or other sensitive account details to a public GitHub repository.
+
+### Step 2: Open Vercel
+
+Visit: https://vercel.com/
+
+### Step 3: Import Repository
+
+1. Sign in with GitHub.
+2. Import `Ram-free-fire-like-api`.
+3. Check the Python entry point and `vercel.json`.
+4. Verify that `requirements.txt` contains the required dependencies.
+
+### Step 4: Deploy
+
+Click **Deploy** and wait for the deployment to complete.
+
+## ⚙️ Requirements
+
+* Python
+* pip
+* GitHub account
+* Vercel account
+
+## 🔒 Disclaimer
+
+Use this project only with authorized accounts and in accordance with applicable service terms.
+
+## 👨‍💻 Author
+
+**Sanju54653644**
+
+GitHub: https://github.com/Sanju54653644
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sanju54653644/Ram-free-fire-like-api/main/banner.gif" width="100%" alt="RAM FREE FIRE LIKE API">
+</div>
+
 
 ## 🚀 Installation
 
