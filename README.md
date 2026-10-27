@@ -59,24 +59,6 @@ Visit: https://vercel.com/
 
 Click **Deploy** and wait for the deployment to complete.
 
-## ⚙️ Requirements
-
-* Python
-* pip
-* GitHub account
-* Vercel account
-
-## 🔒 Disclaimer
-
-Use this project only with authorized accounts and in accordance with applicable service terms.
-
-## 👨‍💻 Author
-
-**Sanju54653644**
-
-GitHub: https://github.com/Sanju54653644
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sanju54653644/Ram-free-fire-like-api/main/banner.gif" width="100%" alt="RAM FREE FIRE LIKE API">
 </div>
