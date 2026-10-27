@@ -11,8 +11,8 @@ from google.protobuf.internal import builder as _builder
 
 _sym_db = _symbol_database.Default()
 
-# POWERED BY : @Abhi_gmr
-# CHANNEL : @Abhi_api
+# POWERED BY : @Ramboss672
+# CHANNEL : @Ramboss6
 
 DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\nlike.proto\"#\n\x04like\x12\x0b\n\x03uid\x18\x01 \x01(\x03\x12\x0e\n\x06region\x18\x02 \x01(\tb\x06proto3')
 
