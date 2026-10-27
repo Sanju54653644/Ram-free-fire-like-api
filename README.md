@@ -6,18 +6,6 @@
   <p>Python API Project</p>
 </div>
 
-# 🔥 Ram Free Fire Like API
-
-A Python-based API project for Free Fire like-related functionality.
-
-## ✨ Features
-
-* 🐍 Python-based project
-* ⚡ Lightweight API structure
-* 🔧 Easy setup and configuration
-* 📦 Simple dependency installation
-* 🌐 Deployment support with WSGI
-
 ## 📁 Project Structure
 # 🔥 RAM Free Fire Like API
 
